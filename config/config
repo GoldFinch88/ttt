@@ -1,0 +1,10 @@
+[general]
+pvss_path = "/opt/inka/3.18"
+proj_path = "/opt/inka/ttt"
+proj_version = "3.18"
+langs = "ru_RU.utf8"
+[ui]
+defaultFont = "Noto Sans"
+versionControl = "git"
+defaultPanelFormat = "XML"
+numPanelBakFiles = 0
